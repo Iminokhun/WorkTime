@@ -2,3 +2,4 @@ venv
 .idea
 *.pyc
 main.py
+db.sqlite3
